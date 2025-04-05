@@ -31,21 +31,25 @@ Mangalya is a modern matrimonial website designed to help people connect and fin
 
 ## 📦 Installation
 
+
+# 1. Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/Minhaj199/mangaly_frontend.git
 cd mangalya-frontend
-
-# Install dependencies
+```
+# 2. Install dependencies
+```bash
 npm install
+```
 
-# Add environment variables
-# Create a `.env` file in the root and add your config
-
-# Run the development server
+# 3. Add environment variables
+### Create a `.env` file in the root and add your config
+```bash
+VITE_BACKENT_URL:https://your-api-url.com
+VITE_STRIPE_SECRET_KE:your_stripe_public_key
+```
+# 4. Run the development server
 npm run dev
 
 
-🛠️ Environment Variables
-VITE_BACKENT_URL:https://your-api-url.com
-VITE_STRIPE_SECRET_KE:your_stripe_public_key
+
