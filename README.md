@@ -49,7 +49,9 @@ VITE_BACKENT_URL:https://your-api-url.com
 VITE_STRIPE_SECRET_KE:your_stripe_public_key
 ```
 # 4. Run the development server
+```bash
 npm run dev
+```
 
 
 
