@@ -35,7 +35,7 @@ Mangalya is a modern matrimonial website designed to help people connect and fin
 # 1. Clone the repository
 ```bash
 git clone https://github.com/Minhaj199/mangaly_frontend.git
-cd mangalya-frontend
+cd mangalya_frontend
 ```
 # 2. Install dependencies
 ```bash
