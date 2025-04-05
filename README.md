@@ -52,6 +52,20 @@ VITE_STRIPE_SECRET_KE:your_stripe_public_key
 ```bash
 npm run dev
 ```
+# 5. Run the url on browser
+user-side
+```bash
+http://localhost:5173/
+```
+admin side
+```bash
+http://localhost:5173/login
+```
+### admin-side
+username-admin@gmail.com
+password-asdasd
+
+
 
 
 
