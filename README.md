@@ -61,9 +61,7 @@ admin side
 ```bash
 http://localhost:5173/login
 ```
-### admin-side
-username-admin@gmail.com
-password-asdasd
+
 
 
 
